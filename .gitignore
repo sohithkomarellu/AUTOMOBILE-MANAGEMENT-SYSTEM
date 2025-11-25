@@ -1,0 +1,13 @@
+build/
+generated-sources/
+empty/
+nbproject/private/
+
+.vscode/
+.idea/
+
+*.class
+*.log
+
+.DS_Store
+Thumbs.db
